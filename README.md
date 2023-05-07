@@ -17,6 +17,15 @@ Spase_Z is built with Webpack as a server, Three.js as a graphics library, and T
     ```
 4. Enjoy!
 
+## Screenshots
+
+![img.png](screenshots/img1.png)
+
+![img_1.png](screenshots/img2.png)
+
+![img_2.png](screenshots/img3.png)
+
+
 ## Contributors
 
 This is our 3rd year project for Scientific Calculations subject
@@ -27,10 +36,3 @@ This is our 3rd year project for Scientific Calculations subject
 We welcome contributions to the Meqate project. If you have any ideas or suggestions, please feel free to open an issue or pull request.
 
 
-## Screenshots
-
-![img.png](screenshots/img1.png)
-
-![img_1.png](screenshots/img2.png)
-
-![img_2.png](screenshots/img3.png)
