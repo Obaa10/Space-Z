@@ -1,4 +1,4 @@
-# SpaceZ
+# Space_Z
 
 Spase_Z is a Web app that allows users to explore the effects of gravity on different objects and planets in space.
 Users can create their own scenarios or use predefined ones, and see how gravity influences the motion and interaction of the bodies.
