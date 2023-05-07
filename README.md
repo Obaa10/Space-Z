@@ -28,8 +28,6 @@ Spase_Z is built with Webpack as a server, Three.js as a graphics library, and T
 
 ## Contributors
 
-This is our 3rd year project for Scientific Calculations subject
-
 - Anas Shakaki [@ansshkki](https://github.com/ansshkki)
 - Obada Al-Maleh [@obaa10](https://github.com/obaa10)
 
